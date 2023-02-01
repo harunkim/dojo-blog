@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "this is it!",
+      "body": "Lorem ipsum dolor sit amet...",
+      "author": "Harun"
+    },
+    {
+      "id": 2,
+      "title": "this isn't it!",
+      "body": "Lorem ipsum dolor sit amet...",
+      "author": "Kim"
+    },
+    {
+      "id": 3,
+      "title": "let's goo!",
+      "body": "Lorem ipsum dolor sit amet...",
+      "author": "Harun"
+    },
+    {
+      "title": "aodfimboie",
+      "body": "dkfv bktytjs b  te sd  k gndmg dksfdvkjdvrnuit utibnubsr",
+      "author": "Kim",
+      "id": 5
+    },
+    {
+      "title": "gnfngj",
+      "body": "jh jflx gdjg ndlgj dkf ghgjdxfgkjb hkfgh khg fkjkdhjindj b",
+      "author": "Kim",
+      "id": 7
+    }
+  ]
+}
